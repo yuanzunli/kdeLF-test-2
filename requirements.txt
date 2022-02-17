@@ -6,5 +6,3 @@ emcee==3.1.1
 h5py==3.6.0
 matplotlib==3.5.1
 myst-nb==0.13.2
-numpy==1.22.2
-scipy==1.8.0

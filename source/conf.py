@@ -2,10 +2,6 @@
 
 from pkg_resources import DistributionNotFound, get_distribution
 
-try:
-    __version__ = get_distribution("kdeLF").version
-except DistributionNotFound:
-    __version__ = "unknown version"
 
 
 # General stuff
@@ -23,8 +19,8 @@ master_doc = "index"
 
 project = "kdeLF"
 copyright = "2021-today, Zunli Yuan & contributors"
-version = __version__
-release = __version__
+version = '1.3.0'
+release = '1.3.0'
 exclude_patterns = ["_build"]
 
 # HTML theme
