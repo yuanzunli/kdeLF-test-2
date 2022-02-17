@@ -1,8 +1,7 @@
 sphinx-book-theme @ git+https://github.com/dfm/sphinx-book-theme.git@fix-outdir
-astropy==5.0.1
-celerite==0.4.2
-corner==2.2.1
-emcee==3.1.1
-h5py==3.6.0
-matplotlib==3.5.1
-myst-nb==0.13.2
+celerite
+corner
+emcee
+h5py
+matplotlib
+myst-nb
