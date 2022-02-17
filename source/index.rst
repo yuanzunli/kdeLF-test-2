@@ -8,8 +8,8 @@ show you how to use it.
 
 This documentation won't teach you too much about KDE but there are a lot
 of resources available for that (try `this one
-<https://www.inference.org.uk/mackay/itprnn/book.html>`_).
-We also `published a paper <https://arxiv.org/abs/1202.3665>`_ explaining
+<https://en.wikipedia.org/wiki/Kernel_density_estimation>`_).
+We also `published a paper <https://arxiv.org/abs/2003.13373>`_ explaining
 the kdeLF algorithm and implementation in detail.
 
 kdeLF is being actively developed on `GitHub <https://github.com/yuanzunli/kdeLF>`_.
